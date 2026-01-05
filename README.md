@@ -1,0 +1,2 @@
+# Library-System
+ The Alex Library Management System is designed to provide a basic simulation of a library management system. It allows users to manage a collection of books by performing various operations on them. Features ● Add a new book with details (ID, title, author). ● Update specific book by its ID. ● Remove an existing book by its ID. ● Borrow a book (mark as unavailable) by its ID. ● Return a book. ● Display the list of available books.
